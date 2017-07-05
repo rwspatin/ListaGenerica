@@ -105,44 +105,6 @@ namespace ListaGenarica
             return (retirado);
         }
 
-        //public T RetirarElemento(string t)
-        //{
-        //    if (!this.Vazia())
-        //    {
-        //        Celula ant = this.primeiro;
-        //        this.aux = this.primeiro.prox;
-        //        while (this.aux != null && this.aux.elemento.T != t)
-        //        {
-        //            ant = this.aux;
-        //            this.aux = this.aux.prox;
-        //        }
-        //        if (this.aux != null)
-        //        {
-        //            T ret = this.aux.elemento;
-
-        //            ant.prox = this.aux.prox;
-
-        //            if (ant.prox == null)
-        //                this.ultimo = ant;
-
-        //            this.tam--;
-
-        //            return (ret);
-        //        }
-        //        else
-        //        {
-        //            Console.WriteLine("Elemento Não existe!!");
-        //            return (default(T));
-        //        }
-
-        //    }
-        //    else
-        //    {
-        //        Console.WriteLine("Lista Vazia!!");
-        //    }
-        //    return (default(T));
-        //}
-
         public void Percorrer()
         {
             this.aux = this.primeiro.prox;

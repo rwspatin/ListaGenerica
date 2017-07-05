@@ -7080,10 +7080,10 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\users\\renan\\documents\\visual studio 2017\\Projects\\ListaGenarica\\ListaGenarica\\ListaGenarica.csproj",
-      "projectName": "ListaGenarica",
-      "projectPath": "c:\\users\\renan\\documents\\visual studio 2017\\Projects\\ListaGenarica\\ListaGenarica\\ListaGenarica.csproj",
-      "outputPath": "c:\\users\\renan\\documents\\visual studio 2017\\Projects\\ListaGenarica\\ListaGenarica\\obj\\",
+      "projectUniqueName": "C:\\Users\\Renan\\documents\\visual studio 2017\\Projects\\ListaGenarica\\ListaGenarica\\TrabalhoRoberto.csproj",
+      "projectName": "TrabalhoRoberto",
+      "projectPath": "C:\\Users\\Renan\\documents\\visual studio 2017\\Projects\\ListaGenarica\\ListaGenarica\\TrabalhoRoberto.csproj",
+      "outputPath": "C:\\Users\\Renan\\documents\\visual studio 2017\\Projects\\ListaGenarica\\ListaGenarica\\obj\\",
       "projectStyle": "PackageReference",
       "originalTargetFrameworks": [
         "netcoreapp1.1"
